@@ -17,5 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thecpr&show_icons=true&locale=en" alt="thecpr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thecpr&" alt="thecpr" /></p>
 <img src="https://raw.githubusercontent.com/thecpr/Thecpr/output/snake.svg" width = 1500 alt="Snake animation" />
